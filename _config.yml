@@ -1,6 +1,4 @@
 title: Afro Chest X-ray
 logo: /assets/img/logo.png
 description: Chest X-ray Dataset for Multiple Cardio-respiratory Diseases in Ethiopia.
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
